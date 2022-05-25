@@ -1,0 +1,98 @@
+h1{
+    color:white;
+    background-color: red;
+
+}
+h3{
+    color:red;
+}
+.basic{
+    background-color: lightgray;
+}
+form{
+    
+    margin: 0px; 
+
+}
+
+label {
+    float: left;
+    width: 10%;
+    margin-right: 2em;
+    text-align: right;
+}
+.pro lable {
+    float: left;
+    width: 28%;
+    margin-right: 4.5em;
+    text-align: right;
+    }
+.edulel lable {
+    float: left;
+    width: 28%;
+    margin-right: 4.5em;
+    text-align: right;
+    }
+
+.detail input {
+    margin-left: 15em;
+    width:30%;
+
+}
+
+.detail select{
+    margin-left:auto ;
+    width: 33%;
+}
+.detail select[myList2]{
+    position: relative;
+
+}
+textarea  {
+    margin-left:15em;
+    width: 30%;
+}
+.detail label{
+    position:absolute;
+
+}
+
+/* education status */
+.edustatus{
+    display:inline-block;
+    margin-left:12em;
+    width: 150px ;
+}
+.edustatus label{
+    display:inline-block;
+    margin: 5px;
+    width: 150px auto;
+    text-align:left;
+    padding-left: 10mm;
+    
+}
+.edustatus input[type="radio"]{
+    margin: 5px;
+    display: inline-block;
+    width: 150px auto;
+    
+    
+    
+}
+/* reset button */
+.detail input[type="reset"]{
+    color:white;
+    width:auto;
+}
+.detail input[type="submit"]{
+    color:white;
+    margin-left: auto;
+    width: auto;
+
+}
+.whole{
+    
+    display: inline;
+
+
+}
